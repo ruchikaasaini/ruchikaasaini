@@ -2,7 +2,7 @@
 
 I'm a **Business Analyst** based in Jaipur, Rajasthan. I enjoy working with data — finding patterns, building dashboards, and turning numbers into something useful.
 
-Currently sharpening my skills in Power BI, Excel, and Python.
+Currently sharpening my skills in Power BI and Excel.
 
 ---
 
@@ -11,9 +11,6 @@ Currently sharpening my skills in Power BI, Excel, and Python.
 **Data Analysis & Visualization**
 - Power BI (DAX, Power Query, Reports)
 - Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
-
-**Programming**
-- Python (Pandas, Matplotlib, basic EDA)
 
 **Other**
 - Data Cleaning & Transformation
