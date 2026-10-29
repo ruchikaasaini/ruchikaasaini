@@ -1,6 +1,6 @@
 # Hi, I'm Ruchika Saini
 
-I'm a **Business Analyst** based in Jaipur, Rajasthan. I enjoy working with data — finding patterns, building dashboards, and turning numbers into something useful.
+I'm a **Business Analyst** based in Jaipur, Rajasthan. I enjoy working with data - finding patterns, building dashboards, and turning numbers into something useful.
 
 Currently sharpening my skills in Power BI, Excel, and Python.
 
@@ -28,9 +28,3 @@ Currently sharpening my skills in Power BI, Excel, and Python.
 |---------|-------------|-------|
 | [E-Commerce Sales Dashboard](https://github.com/ruchikaasaini/ECommerce-Sales-Dashboard-PowerBI) | Sales analysis dashboard with regional and category breakdown | Power BI, DAX |
 | [HR Employee Analysis](https://github.com/ruchikaasaini/HR-Employee-Analysis-Excel) | HR dataset analysis covering attrition, salary, and performance | Excel, Pivot Tables |
-
----
-
-## GitHub Stats
-
-![Ruchika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchikaasaini&show_icons=true&theme=default&hide_border=true)
