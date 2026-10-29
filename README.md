@@ -1,16 +1,17 @@
-# Hi, I'm Ruchika Saini 👋
+# Hi, I'm Ruchika Saini
 
-I'm a **Business Analyst** based in Jaipur, Rajasthan. I enjoy working with data — finding patterns, building dashboards, and turning raw numbers into something useful.
+I'm a **Business Analyst** based in Jaipur, Rajasthan. I enjoy working with data — finding patterns, building dashboards, and turning numbers into something useful.
 
-I'm currently sharpening my skills in Power BI, Excel, and Python.
+Currently sharpening my skills in Power BI, Excel, SQL, and Python.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Data Analysis & Visualization**
 - Power BI (DAX, Power Query, Reports)
 - Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
+- SQL (Queries, Joins, Aggregations)
 
 **Programming**
 - Python (Pandas, Matplotlib, basic EDA)
@@ -22,7 +23,7 @@ I'm currently sharpening my skills in Power BI, Excel, and Python.
 
 ---
 
-## 📂 My Projects
+## Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
@@ -31,17 +32,13 @@ I'm currently sharpening my skills in Power BI, Excel, and Python.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Ruchika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchikaasaini&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
-
-- 📍 Jaipur, Rajasthan
-- 💼 Open to opportunities in Business Analysis
-
----
+- Location: Jaipur, Rajasthan
+- Open to opportunities in Business Analysis and Data Analytics
 
 *Always learning. Always growing.*
