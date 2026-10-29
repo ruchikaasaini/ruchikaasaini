@@ -34,10 +34,3 @@ Currently sharpening my skills in Power BI, Excel, and Python.
 ## GitHub Stats
 
 ![Ruchika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchikaasaini&show_icons=true&theme=default&hide_border=true)
-
----
-
-- Location: Jaipur, Rajasthan
-- Open to opportunities in Business Analysis and Data Analytics
-
-*Always learning. Always growing.*
